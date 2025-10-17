@@ -4,3 +4,4 @@
 *.vsidx
 *.[Vv]2
 *.[Ss]uo
+**/.vs
